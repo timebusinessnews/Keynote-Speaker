@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>news.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/what-is-the-importance-of-public-speaking-in-todays-world.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/what-is-the-key-to-overcoming-public-speaking-anxiety.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-command-any-room-the-secret-techniques-of-master-public-speakers.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-transform-your-fear-into-confidence-unveil-the-hidden-art-of-public-speaking.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/overcoming-stage-fright.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>index.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>audience-engagement-strategies.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2024-09-15T13:31:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
